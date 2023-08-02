@@ -1,4 +1,5 @@
-const key = '19880e84e817b3f3904021340697edf0';
+// Add weather API key below
+const key = '';
 
 const getWeather = async (city) => {
 
